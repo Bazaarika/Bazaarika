@@ -1,6 +1,6 @@
 # 🛍️ Bazaarika - Official Android App
 
-![Bazaarika Banner](https://your-banner-image-url-if-any.com)
+![Bazaarika Banner](https://i.postimg.cc/gJSdwtZz/Picsart-25-07-06-09-37-13-906.png)
 
 Welcome to **Bazaarika**, your trusted destination for affordable and trendy fashion, electronics, and more – now on your Android device!
 
